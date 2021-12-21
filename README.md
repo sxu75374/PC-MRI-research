@@ -68,7 +68,7 @@ For running the server file on you can use this command.
 **Shuai Xu**
 
 - [Profile](https://github.com/sxu75374 "Shuai Xu")
-- [Email](mailto:sxu75374@usc.edu?subject=Hi "Hi!")
+- [Email](mailto:sxu75374@usc.edu?subject=nice "Hi!")
 
 ## Support
 
