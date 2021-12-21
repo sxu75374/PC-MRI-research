@@ -52,12 +52,7 @@ For running the server file on you can use this command.
 
 ## Built With
 
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
+- MATLAB R2021a
 
 ## Future Updates
 
@@ -68,7 +63,7 @@ For running the server file on you can use this command.
 **Shuai Xu**
 
 - [Profile](https://github.com/sxu75374 "Shuai Xu")
-- [Email](mailto:sxu75374@usc.edu?subject=nice "Hi!")
+- [Email](mailto:sxu75374@usc.edu?subject=Nice to meet you, Shuai "Hi!")
 
 ## Support
 
