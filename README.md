@@ -65,13 +65,12 @@ For running the server file on you can use this command.
 
 ## Author
 
-**Rohit Jain**
+**Shuai Xu**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://github.com/rohit19060 "Shuai Xu")
+- [Email](mailto:sxu75374@usc.edu?subject=Hi "Hi!")
 
-## 🤝 Support
+## Support
 
 Contributions, issues, and feature requests are welcome!
 
