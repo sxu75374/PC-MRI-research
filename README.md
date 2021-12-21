@@ -1,9 +1,8 @@
 # PC-MRI-research
-I didn't post the dataset of this project for using because the signal acquisition is done by Dr.Lirong Yan, University of Southern California.
+This repository includes three projects related to the Phase Contrast MRI. All of them is done under the supervise of Dr. Lirong Yan, University of Southern California.
+I didn't post the dataset of this project for using because the signal acquisition is done by Dr.Lirong Yan.
 
-<h1 align="center"><project-name></h1>
 
-<p align="center"><project-description></p>
 
 ## Links
 
