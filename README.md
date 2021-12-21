@@ -2,19 +2,13 @@
 This repository includes three projects related to the Phase Contrast MRI. All of them is done under the supervise of Dr. Lirong Yan, University of Southern California.
 I didn't post the dataset of this project for using because the signal acquisition is done by Dr.Lirong Yan.
 
-<h1 align="center"><project-name></h1>
-
-<p align="center"><project-description></p>
-
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Project 1](https://github.com/sxu75374/PC-MRI-research/tree/main/proj1 "<project 1> Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Project 2](<Homepage url> "Live View")
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
+- [Project 3](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 
 ## Screenshots
 
