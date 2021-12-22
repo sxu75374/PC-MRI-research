@@ -8,11 +8,11 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#content">Contents</a>
+      <a href="#contents">Contents</a>
       <ul>
-        <li><a href="#project1">Project 1</a></li>
-        <li><a href="#project2">Project 2</a></li>
-        <li><a href="#project3">Project 3</a></li>
+        <li><a href="#project-1">Project 1</a></li>
+        <li><a href="#project-2">Project 2</a></li>
+        <li><a href="#project-3">Project 3</a></li>
       </ul>
     </li>
     <li><a href="#built-with">Built With</a></li>
