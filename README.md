@@ -25,6 +25,9 @@ PC-MRI-research. This repository includes three projects related to the Phase Co
 ## Built With
 - [MATLAB R2021a](https://www.mathworks.com/products/matlab.html)
 
+### Installation
+This code built and tested with MATLAB R2021a, included package [Image Processing Toolbox](https://www.mathworks.com/products/image.html).
+
 ## Author
 
 **Shuai Xu, University of Southern California** 
@@ -43,7 +46,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 
 Installation
-This code built and tested with MATLAB 2021a, included package [Image Processing Toolbox](https://www.mathworks.com/products/image.html).
+
 
 
 
