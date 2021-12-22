@@ -7,7 +7,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#contents">Contents</a></li>
+    <li>
+      <a href="#contents">Contents</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#author">Author</a></li>
     <li><a href="#license">License</a></li>
