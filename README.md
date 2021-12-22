@@ -27,7 +27,7 @@ PC-MRI-research. This repository includes three projects related to the Phase Co
 
 ## Author
 
-**Shuai Xu** 
+**Shuai Xu, University of Southern California** 
 
 [Profile](https://github.com/sxu75374) - <a href="mailto:sxu75374@usc.edu?subject=Nice to meet you!&body=Hi Shuai!">sxu75374@usc.edu</a>
 
