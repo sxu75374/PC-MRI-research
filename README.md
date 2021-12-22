@@ -23,14 +23,14 @@ PC-MRI-research. This repository includes three projects related to the Phase Co
 - [Project 3](https://github.com/sxu75374/PC-MRI-research/tree/main/proj3)
 
 ## Built With
-- [MATLAB R2021a](https://www.mathworks.com/products/matlab.html)
+- [MATLAB R2020a](https://www.mathworks.com/products/matlab.html)
 
 ### Installation
-This code built and tested with MATLAB R2021a, included package [Image Processing Toolbox](https://www.mathworks.com/products/image.html).
+This code built and tested with MATLAB R2020a, included package [Image Processing Toolbox](https://www.mathworks.com/products/image.html).
 
 ## Author
 
-**Shuai Xu, University of Southern California** 
+**Shuai Xu** | University of Southern California
 
 [Profile](https://github.com/sxu75374) - <a href="mailto:sxu75374@usc.edu?subject=Nice to meet you!&body=Hi Shuai!">sxu75374@usc.edu</a>
 
@@ -42,12 +42,6 @@ Project Link: [https://github.com/sxu75374/PC-MRI-research](https://github.com/s
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">[<a href="#top">back to top</a>]</p>
-
-
-
-Installation
-
-
 
 
 <!-- ROADMAP -->
