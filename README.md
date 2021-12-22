@@ -10,7 +10,9 @@
     <li>
       <a href="#contents">Contents</a>
       <ul>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#project1">Project 1</a></li>
+        <li><a href="#project2">Project 2</a></li>
+        <li><a href="#project3">Project 3</a></li>
       </ul>
     </li>
     <li><a href="#built-with">Built With</a></li>
