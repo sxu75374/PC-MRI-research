@@ -8,7 +8,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#contents">Contents</a>
+      <a href="#content">Contents</a>
       <ul>
         <li><a href="#project1">Project 1</a></li>
         <li><a href="#project2">Project 2</a></li>
