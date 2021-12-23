@@ -67,7 +67,7 @@ This code built and tested with MATLAB R2020a, included package [Image Processin
 
 **Shuai Xu** | University of Southern California
 
-[Profile](https://github.com/sxu75374) - <a href="mailto:sxu75374@usc.edu?subject=Nice to meet you!&body=Hi Shuai!">sxu75374@usc.edu</a>
+[Profile](https://github.com/sxu75374) - <a href="mailto:sxu75374@usc.edu?subject=Nice to meet you!&body=Hi Shuai!">Email</a>
 
 Project Link: [https://github.com/sxu75374/PC-MRI-research](https://github.com/sxu75374/PC-MRI-research)
 
