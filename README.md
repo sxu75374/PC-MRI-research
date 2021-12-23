@@ -38,7 +38,7 @@ This project compare the difference ROI selection methods which calculate in the
 
 ### [Project 2](https://github.com/sxu75374/PC-MRI-research/tree/main/proj2):
 Project 2 gets area data and calculates the blood flow rate Q with the correspnding resistivity index (RI) and pulsatility index (PI) of the target vessel in ROI. 
-Then, do the analysis based on the correlation with patients age information.
+Then, do the analysis based on the correlation with patients age information. This project is implement the paper written by Pahlavian, Soroush H., et al. [Cerebroarterial Pulsatility and Resistivity Indices Are Associated with Cognitive Impairment and White Matter Hyperintensity in Elderly Subjects: A Phase-Contrast MRI Study](https://pubmed.ncbi.nlm.nih.gov/32501154/).
 
 `getAllFiles.m`: get all the address of the images in the data folders.
 
@@ -49,7 +49,7 @@ Then, do the analysis based on the correlation with patients age information.
 `AgeCorr.m`: analyzes the correlation between PI, RI and patients' age.
 
 ### [Project 3](https://github.com/sxu75374/PC-MRI-research/tree/main/proj3):
-Project 3 implements the image processing part of small perforating vessels detection in the paper by Bouvy, W. H., et al. [Assessment of Blood Flow Velocity and Pulsatility in Cerebral Perforating Arteries with 7-T Quantitative Flow MRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5008170/) and the paper by Geurts, Lennart, et al. [Better and Faster Velocity Pulsatility Assessment in Cerebral White Matter Perforating Arteries with 7T Quantitative Flow MRI through Improved Slice Profile, Acquisition Scheme, and Postprocessing](https://pubmed.ncbi.nlm.nih.gov/28699211/).
+Project 3 implements the image processing part of small perforating vessels detection in the paper written by Bouvy, W. H., et al. [Assessment of Blood Flow Velocity and Pulsatility in Cerebral Perforating Arteries with 7-T Quantitative Flow MRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5008170/) and the paper written by Geurts, Lennart, et al. [Better and Faster Velocity Pulsatility Assessment in Cerebral White Matter Perforating Arteries with 7T Quantitative Flow MRI through Improved Slice Profile, Acquisition Scheme, and Postprocessing](https://pubmed.ncbi.nlm.nih.gov/28699211/).
 
 `getAllFiles.m`: get all the address of the images in the data folders.
 
