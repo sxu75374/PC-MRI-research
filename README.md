@@ -49,7 +49,13 @@ Then, do the analysis based on the correlation with patients age information.
 `AgeCorr.m`: analyzes the correlation between PI, RI and patients' age.
 
 ### [Project 3](https://github.com/sxu75374/PC-MRI-research/tree/main/proj3):
+Project 3 implements the image processing part of small perforating vessels detection in the paper by Bouvy, W. H., et al. [Assessment of Blood Flow Velocity and Pulsatility in Cerebral Perforating Arteries with 7-T Quantitative Flow MRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5008170/) and the paper by Geurts, Lennart, et al. [Better and Faster Velocity Pulsatility Assessment in Cerebral White Matter Perforating Arteries with 7T Quantitative Flow MRI through Improved Slice Profile, Acquisition Scheme, and Postprocessing](https://pubmed.ncbi.nlm.nih.gov/28699211/).
 
+`getAllFiles.m`: get all the address of the images in the data folders.
+
+`read_data.m`: load the whole dataset based on the address obtained by `getAllFiles.m`
+
+`main.m`: main steps of the image processing part in both of the papers.
 
 ## Built With
 - [MATLAB R2020a](https://www.mathworks.com/products/matlab.html)
