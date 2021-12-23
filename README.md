@@ -61,7 +61,7 @@ Project 3 implements the image processing part of small perforating vessels dete
 - [MATLAB R2020a](https://www.mathworks.com/products/matlab.html)
 
 ### Installation
-This code built and tested with MATLAB R2020a, included package [Image Processing Toolbox](https://www.mathworks.com/products/image.html).
+This code built and tested with MATLAB R2020a on macOS Catalina version 10.15.7, included package [Image Processing Toolbox](https://www.mathworks.com/products/image.html).
 
 ## Author
 
